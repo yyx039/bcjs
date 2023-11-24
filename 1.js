@@ -1,3 +1,4 @@
+alert('inject')
 setInterval(()=>{
 const x = document.querySelector('#box').children
 const colors = []
