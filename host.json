@@ -1,5 +1,5 @@
 {
-    "api": "http://3.26.223.70:7001",
-    "game": "http://3.26.223.70:5173",
-    "v": 3.6
+    "api": "https://api.ggbc.xyz",
+    "game": "https://game.ggbc.xyz",
+    "v": 3.7
 }
