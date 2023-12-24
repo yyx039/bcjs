@@ -1,5 +1,5 @@
 {
-    "api": "https://api.ggbc.xyz",
-    "game": "https://game.ggbc.xyz",
-    "v": 3.7
+    "api": "http://api.ggbc.xyz",
+    "game": "http://game.ggbc.xyz",
+    "v": 3.8
 }
